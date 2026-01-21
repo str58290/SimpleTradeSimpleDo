@@ -3,3 +3,10 @@ Understanding the struggles of analysing volatility to churn profits, we seek to
 
 # Ideation
 Through feeding through historical RV, we would generate the predicted RV of today's market. By comparing the predicted RV and market's IV, we would understand the market's true sentiment to the stock, and thereafter, recommend the best strategy to implement for max payout. 
+
+# Quick Ref: UV Commands for use
+| Commands  | Description |
+| ------------- |:-------------:|
+| uv init      | Initialize a new Python project using uv     |
+| uv add \<dependency\>      | Add dependencies into the uv Python project     |
+| uv sync      | Install or update  project dependencies      |
