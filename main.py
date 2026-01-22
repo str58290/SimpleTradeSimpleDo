@@ -1,5 +1,5 @@
 def main():
-    print("Hello from S3!")
+    print("Hello from S20!")
 
 
 if __name__ == "__main__":
