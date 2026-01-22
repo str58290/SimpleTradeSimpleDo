@@ -1,5 +1,5 @@
 def main():
-    print("Hello from S20!")
+    print("Hello from T100!")
 
 
 if __name__ == "__main__":
