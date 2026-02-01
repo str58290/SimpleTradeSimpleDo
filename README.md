@@ -10,3 +10,4 @@ Through feeding through historical RV, we would generate the predicted RV of tod
 | uv init      | Initialize a new Python project using uv     |
 | uv add \<dependency\>      | Add dependencies into the uv Python project     |
 | uv sync      | Install or update  project dependencies      |
+| uv run python      | Run the project in the uv Python project      |
